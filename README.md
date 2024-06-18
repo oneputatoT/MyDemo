@@ -2,6 +2,9 @@
 
 使用模式：工厂模式、状态机、单例模式、依赖注入、中介模式
 
+<details>
+<summary>流程</summary>
+
 - 消消乐整体设计思路
 
 ![Image text](https://github.com/oneputatoT/MyDemo/blob/main/image/xiaoxiaole/%E6%80%9D%E8%B7%AF.png)
@@ -14,7 +17,7 @@
 
 ![image_text](https://github.com/oneputatoT/MyDemo/blob/main/image/xiaoxiaole/%E7%8A%B6%E6%80%81%E6%9C%BA%E8%BD%AC%E7%A7%BB%E5%9B%BE.png)
 
-
+</details>
 
 
 
