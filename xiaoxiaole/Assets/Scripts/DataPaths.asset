@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be3f24f9ee60aba41b930b127306d0e0, type: 3}
+  m_Name: DataPaths
+  m_EditorClassIdentifier: 
+  squarePrefabPath: Square
+  candyPrefabPath: Candy
+  squareTexPath:
+  - square1
+  - square2
+  candyTexPath:
+  - item_01
+  - item_01_extra
+  - item_01_stripes_vert
+  - item_01_stripes_horiz
+  - item_02
+  - item_02_extra
+  - item_02_stripes_vert
+  - item_02_stripes_horiz
+  - item_03
+  - item_03_extra
+  - item_03_stripes_vert
+  - item_03_stripes_horiz
+  - item_04
+  - item_04_extra
+  - item_04_stripes_vert
+  - item_04_stripes_horiz
+  - item_05
+  - item_05_extra
+  - item_05_stripes_vert
+  - item_05_stripes_horiz
+  - item_06
+  - item_06_extra
+  - item_06_stripes_vert
+  - item_06_stripes_horiz
+  candyAllInPath: candy10_choco
+  explosionPrefabPath:
+  - Effect01
+  - Effect02
+  - Effect03
+  - Effect04
+  - Effect05
+  - Effect06
