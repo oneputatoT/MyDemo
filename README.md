@@ -3,7 +3,7 @@
 使用模式：工厂模式、状态机、单例模式、依赖注入、中介模式
 
 <details>
-<summary>**流程**</summary>
+<summary>流程</summary>
 
 - 消消乐整体设计思路
 
